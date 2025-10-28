@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Raffle Winner Spinner",
+  "description": "A visually engaging web application to select a raffle winner. Enter a list of participants, and watch the wheel spin to randomly select a lucky winner.",
+  "requestFramePermissions": []
+}
